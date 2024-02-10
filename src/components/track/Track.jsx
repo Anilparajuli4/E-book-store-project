@@ -30,7 +30,7 @@ function Track() {
                                 </svg>
 
                                 <h2 className="title-font font-medium text-lg text-gray-900" style={{color: mode === 'dark' ? 'white' : ''}}>Free Shipping</h2>
-                                <p className="leading-relaxed">We ship all over India for FREE.
+                                <p className="leading-relaxed">We ship all over Nepal for FREE.
 
 </p>
                             </div>

@@ -12,14 +12,14 @@ function UpdateProduct() {
                         <input type="text"
                             name='title'
                             className=' bg-gray-600 mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-white placeholder:text-gray-200 outline-none'
-                            placeholder='Product title'
+                            placeholder='Book title'
                         />
                     </div>
                     <div>
                         <input type="text"
                             name='price'
                             className=' bg-gray-600 mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-white placeholder:text-gray-200 outline-none'
-                            placeholder='Product price'
+                            placeholder='Book price'
                         />
                     </div>
            
@@ -27,13 +27,13 @@ function UpdateProduct() {
                         <input type="text"
                             name='category'
                             className=' bg-gray-600 mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-white placeholder:text-gray-200 outline-none'
-                            placeholder='Product category'
+                            placeholder='Book category'
                         />
                     </div>
                     <div>
                        <textarea cols="30" rows="10" name='title'
                             className=' bg-gray-600 mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-white placeholder:text-gray-200 outline-none'
-                            placeholder='Product title'>
+                            placeholder='Book description'>
 
                        </textarea>
                     </div>
@@ -47,7 +47,7 @@ function UpdateProduct() {
                     <div className=' flex justify-center mb-3'>
                         <button
                             className=' bg-yellow-500 w-full text-black font-bold  px-2 py-2 rounded-lg'>
-                            Update Product
+                            Update Book
                         </button>
                     </div>
                  

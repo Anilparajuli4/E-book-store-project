@@ -191,7 +191,7 @@ function DashboardTab() {
                                                                 name
                                                             </td>
                                                             <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
-                                                                india
+                                                                Butwal
                                                             </td>
                                                             <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
                                                                 82828
@@ -200,10 +200,10 @@ function DashboardTab() {
                                                                929929929929
                                                             </td>
                                                             <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
-                                                                kkakka@gmail.com
+                                                                anil234@gmail.com
                                                             </td>
                                                             <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
-                                                               12 Aug 2019
+                                                               20 jan 2024
                                                             </td>
 
                                                         </tr>
@@ -263,10 +263,10 @@ function DashboardTab() {
                                                         1991818818
                                                     </td>
                                                     <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
-                                                       kkk@gmail.com
+                                                       anil234@gmail.com
                                                     </td>
                                                     <td className="px-6 py-4 text-black " style={{ color: mode === 'dark' ? 'white' : '' }}>
-                                                        12 Aug 2019
+                                                        12 jan 2024
                                                     </td>
 
                                                 </tr>
